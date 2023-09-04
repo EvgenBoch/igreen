@@ -880,6 +880,10 @@ section
 6. About. Content
 *********************************/
 
+.about {
+	margin-top: 200px;
+}
+
 .about__row {
 	display: flex;
 	justify-content: space-between;

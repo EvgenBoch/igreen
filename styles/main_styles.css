@@ -798,7 +798,7 @@ section
 .home
 {
 	width: 100%;
-	height: 950px;
+	height: 650px;
 	background: #FFFFFF;
 	z-index: 2;
 }
@@ -806,7 +806,7 @@ section
 {
 	width: 100%;
 	height: 100%;
-	padding-top: 130px;
+	padding-top: 60px;
 	padding-left: 60px;
 	padding-right: 60px;
 	padding-bottom: 30px;
@@ -826,7 +826,7 @@ section
 {
 	position: absolute;
 	left: 0;
-	top: 32.3%;
+	top: 30%;
 	width: 100%;
 }
 .home_slider_content
@@ -850,7 +850,7 @@ section
 }
 .home_button
 {
-	margin-top: 40px;
+	margin-top: 20px;
 }
 .home_slider_dots_container
 {
