@@ -78,10 +78,10 @@ $(document).ready(function()
 			{
 				items:1,
 				autoplay:true,
-				autoplayTimeout:10000,
+				autoplayTimeout:5000,
 				loop:true,
 				nav:false,
-				smartSpeed:1200,
+				smartSpeed:2000,
 				dotsSpeed:1200,
 				fluidSpeed:1200
 			});
