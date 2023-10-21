@@ -73,6 +73,12 @@
 	{
 		display: inline-block;
 	}
+
+	.home {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
 	.home_slider_container
 	{
 		padding-left: 30px;
@@ -86,6 +92,11 @@
 	{
 		padding-left: 30px;
 		padding-right: 30px;
+	}
+
+	.home_title
+	{
+		font-size: 48px;
 	}
 
 	/************
@@ -190,6 +201,16 @@
 		display: none;
 	}
 
+	.home_title
+	{
+		font-size: 36px;
+	}
+
+	.home_content
+	{
+		width: 100%;
+	}
+
 	/************
 	Products media
 	************/
@@ -273,10 +294,23 @@
 	.scrolled img {
 		width: 50px;
 	}
-	.home
-	{
-		height: 100vh;
+
+	.home {
+		height: 350px;
+		padding-top: 80px;
+		padding-left: 0;
+		padding-right: 0;
 	}
+
+	.home_title
+	{
+		font-size: 24px;
+	}
+
+	.home_text {
+		font-size: 18px;
+	}
+
 	.home_slider_container
 	{
 		padding-left: 0px;
