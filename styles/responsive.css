@@ -311,6 +311,10 @@
 		font-size: 18px;
 	}
 
+	.home_text p {
+		font-size: 14px;
+	}
+
 	.home_slider_container
 	{
 		padding-left: 0px;
