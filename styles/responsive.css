@@ -99,6 +99,10 @@
 		font-size: 48px;
 	}
 
+	.home_text p {
+		font-size: 14;
+	}
+
 	/************
 	Products media
 	************/
@@ -296,8 +300,8 @@
 	}
 
 	.home {
-		height: 350px;
-		padding-top: 80px;
+		/* height: 350px; */
+		padding-top: 40px;
 		padding-left: 0;
 		padding-right: 0;
 	}
