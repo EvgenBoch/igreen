@@ -16,14 +16,6 @@ $(document).ready(function(){
                 settings: {
                     arrows: false,
                 }
-            },
-
-            {
-                breakpoint: 800,
-                settings: {
-                    arrows: false,
-                    autoplay: false,
-                }
             }
         ]
     });
