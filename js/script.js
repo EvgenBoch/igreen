@@ -8,13 +8,21 @@ $(document).ready(function(){
         slidesToScroll: 1,
         prevArrow: $('.presentation__arrow-left'),
         nextArrow: $('.presentation__arrow-right'),
-        //autoplay: true,
+        autoplay: true,
         autoplaySpeed: 3000,
         responsive: [
             {
                 breakpoint: 1100,
                 settings: {
-                    arrows: false
+                    arrows: false,
+                }
+            },
+
+            {
+                breakpoint: 800,
+                settings: {
+                    arrows: false,
+                    autoplay: false,
                 }
             }
         ]
